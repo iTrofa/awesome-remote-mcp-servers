@@ -1341,6 +1341,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [eSIMfly](https://esimfly.net/esim-api) `https://mcp.esimfly.net/mcp`
   [![eSIMfly MCP connector](https://glama.ai/mcp/connectors/io.github.eSimfly-Official/esimfly-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.eSimfly-Official/esimfly-mcp)
   🔐 - Wholesale eSIM data plans for 200+ countries for resellers and apps: search plans with your prices, check balance and usage, diagnose an eSIM from live network data, and (opt-in, with a confirmation step) order and top up. OAuth 2.1 sign-in with an eSIMfly business account; also available as `npx -y @esimfly/mcp`.
+- [ExplorersMap Travel Log](https://explorersmap.net/mcp) `https://explorersmap.net/mcp`
+  [![ExplorersMap Travel Log MCP connector](https://glama.ai/mcp/connectors/net.explorersmap/explorers-map-travel-log/badges/score.svg)](https://glama.ai/mcp/connectors/net.explorersmap/explorers-map-travel-log)
+  🔓 - Travel log for any AI assistant: mark countries, regions, places, build trips, read stats, rank; tool calls need a key.
 - [FlightPowers Google Flights](https://flights.flightpowers.com) `https://flights.flightpowers.com/mcp`
   [![FlightPowers Google Flights MCP connector](https://glama.ai/mcp/connectors/com.flightpowers/google-flights/badges/score.svg)](https://glama.ai/mcp/connectors/com.flightpowers/google-flights)
   🔐 - Live Google Flights fares with price band and verdict, round trips in one request, date ranges and destination lists.
